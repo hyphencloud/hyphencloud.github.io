@@ -1,1 +1,1 @@
-# hyphencloud.github.io
+# docs.hyphencloud.com
